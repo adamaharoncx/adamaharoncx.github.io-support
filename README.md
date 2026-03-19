@@ -33,7 +33,7 @@ WishSync helps couples keep meaningful things organized in one place, including:
 
 You can view the WishSync Privacy Policy here:
 
-[Privacy Policy](https://adamaharoncx.github.io))
+[Privacy Policy](https://adamaharoncx.github.io/)
 
 ---
 
